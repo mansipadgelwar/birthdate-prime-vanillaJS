@@ -4,18 +4,17 @@
   --primary-color : #A78BFA;
   --secondary-color : 
 }
+
 body{
-  font-family: 'Yomogi', cursive;
-  
+  font-family: 'Yomogi', cursive;  
+  text-align: center;
+  font-size: 1.1rem;
 }
 
 #section{
   padding: 2rem;
 }
 
-h1{
-  text-align: center;
-}
 
 #input{
     max-width: 30%;

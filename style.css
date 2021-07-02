@@ -2,7 +2,6 @@
 
 :root{
   --primary-color : #A78BFA;
-  --secondary-color : 
 }
 
 body{
@@ -11,12 +10,11 @@ body{
   font-size: 1.1rem;
 }
 
-#section{
+div{
   padding: 2rem;
 }
 
-
-#input{
+.input{
     max-width: 30%;
     font-size : 1.2rem;
     padding: 1rem;
@@ -40,4 +38,8 @@ body{
     margin-left: auto;
     margin-right: auto;
     
+}
+
+#txt-output{
+  color: var(--primary-color);
 }
